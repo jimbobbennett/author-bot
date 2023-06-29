@@ -77,3 +77,4 @@ To configure for Azure OpenAI service:
 
 Sometimes the response from ChatGPT can be unpredictable, so you may need to run some cells again. For example, when running the cells the request the output as JSON, sometimes the output includes prose, such as opening with "Here you go". Running the cell again can fix this, or try changing the prompt before you run again.
 
+Running this notebook can be expensive, especially if you use GPT-4. As an estimate, a complete book run can be as much as $2.
